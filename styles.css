@@ -1,0 +1,15 @@
+h2 {
+    font-family: "Montserrat";
+    font-weight: 700;
+}
+li{
+    list-style-type: none;
+}
+
+.need-center {
+    text-align: center;
+}
+
+.need-cross {
+    text-decoration: line-through;
+}
